@@ -5,15 +5,8 @@ for(let x=0; x<buttonsLength; x++){
     document.querySelectorAll(".my-button")[x].addEventListener("click", function(){
         //h1.innerHTML = this.innerHTML + " is clicked";
         var text = this.innerHTML;
-		audioplay(text);
 
-      
-    })
-    
-}
-function audioplay(text)
-{
-	  switch(text)
+        switch(text)
         {
             case "Play 1":
             {
@@ -40,6 +33,6 @@ function audioplay(text)
             }
                 
         }
-	
+    })
+    
 }
-
