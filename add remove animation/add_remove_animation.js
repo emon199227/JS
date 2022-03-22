@@ -17,7 +17,7 @@ function audioplay(text)
 {
 	  switch(text)
         {
-            case "Play 1":
+            case "a":
             {
                 var audio = new Audio('sound/clip_1.mp3');
                  audio.play();
@@ -25,7 +25,7 @@ function audioplay(text)
 
             }
                 
-            case "Play 2":
+            case "b":
             {
                 var audio = new Audio('sound/clip_2.mp3');
                 audio.play();
@@ -33,7 +33,7 @@ function audioplay(text)
 
             }
                 
-            case "Play 3":
+            case "c":
             {
                 var audio = new Audio('sound/clip_3.mp3');
                 audio.play();
