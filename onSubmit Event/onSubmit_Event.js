@@ -17,7 +17,10 @@ const userInfo =
     password:password.value,
 };
 
-console.log(userInfo);
+
+//console.log(userInfo);
+mytext = document.getElementById('div #name').value;
+document.write(mytext);
 name.value="";
 email.value="";
 password.value="";
