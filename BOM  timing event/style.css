@@ -1,0 +1,13 @@
+div{
+    background-color: tomato;
+    height: 20rem;
+    width: 20rem;
+    padding: 2rem;
+}
+.sms{
+    color: red;
+}
+.txt-sms{
+    color: rgb(241, 22, 201);
+    font-weight: bold;
+}
