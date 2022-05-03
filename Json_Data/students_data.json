@@ -1,0 +1,43 @@
+{
+    "students" : [
+        {
+            "name": "Anisul islam",
+            "Middlename": null,
+"age": 29,
+"cgpa": 2.82,
+"isRegistered": true,
+"language": ["Bangla","English","Hindi"],
+"friends": [
+    {
+        "name": "Anar",
+        "age": 25
+    },
+    {
+        "name": "Ruhul",
+        "age": 28
+    }
+]
+        },
+{
+
+    "name": "Al Emran Eman",
+    "Middlename": null,
+    "age": 25,
+    "cgpa": 3.13,
+    "isRegistered": false,
+    "language": ["Bangla","English","Hindi"],
+    "friends": [
+        {
+            "name": "kanar",
+            "age": 24
+        },
+        {
+            "name": "Bellel",
+            "age": 30
+        }
+    ]
+}
+        
+
+    ]
+}
